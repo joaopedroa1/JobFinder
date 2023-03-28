@@ -1,0 +1,31 @@
+.Info{
+    width: 100%;
+    height: 425px;
+    margin-top: 105px;
+    display: block;
+    gap: 50px;
+}
+.SN{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    color: darkred;
+    font-size: 20px;
+}
+.PD{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    width: 100%;
+    font-size: 25px;
+}
+.MD{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+}
+.TD{
+    color: #667085;
+}
